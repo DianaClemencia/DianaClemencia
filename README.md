@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DianaClemencia
 - 👀 I’m interested in building communities throught involvement and engagement of users.
-- 🌱 I’m currently learning R and Github
+- 🌱 I’m currently learning R and Github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 - ⚡ Fun fact: ...
 
 <!---
